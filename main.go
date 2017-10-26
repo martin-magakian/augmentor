@@ -48,11 +48,11 @@ func fastHTTPHandler(ctx *fasthttp.RequestCtx) {
 	response := augment.AugmentorResponse{}
 	response.Segments = []*augment.AugmentorResponse_Segment{
 		&augment.AugmentorResponse_Segment{
-			Id:    stringPtr("intentioniste"),
+			Id:    stringPtr("intentionniste"),
 			Value: stringPtr("Audi A3"),
 		},
 		&augment.AugmentorResponse_Segment{
-			Id:    stringPtr("Intentioniste"),
+			Id:    stringPtr("Intentionniste"),
 			Value: stringPtr("Voiture"),
 		},
 	}
