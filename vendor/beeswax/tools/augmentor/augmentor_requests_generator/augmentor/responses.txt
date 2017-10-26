@@ -1,0 +1,35 @@
+<Status> [200] OK
+<Response headers>
+{'Date': 'Thu, 26 Oct 2017 19:23:56 GMT', 'Content-Length': '52', 'Content-Type': 'text/plain; charset=utf-8', 'Server': 'fasthttp'}
+
+<Augmentor Response>
+segments {
+  id: "intentioniste"
+  value: "Audi A3"
+}
+segments {
+  id: "Intentioniste"
+  value: "Voiture"
+}
+
+===
+<Status> [200] OK
+<Response headers>
+{'Date': 'Thu, 26 Oct 2017 19:23:56 GMT', 'Content-Length': '52', 'Content-Type': 'text/plain; charset=utf-8', 'Server': 'fasthttp'}
+
+<Augmentor Response>
+segments {
+  id: "intentioniste"
+  value: "Audi A3"
+}
+segments {
+  id: "Intentioniste"
+  value: "Voiture"
+}
+
+===
+<Status> [204] No Content
+<Response headers>
+{'Date': 'Thu, 26 Oct 2017 19:23:56 GMT', 'Server': 'fasthttp'}
+
+===

@@ -1,0 +1,413 @@
+bid_request {
+  id: "3505441503853761658"
+  imp {
+    id: "3274411719020019836"
+    video {
+      mimes: "video/mp4"
+      mimes: "video/3gpp"
+      maxduration: 18000
+      w: 300
+      h: 250
+      startdelay: 0
+      battr: PROVOCATIVE_OR_SUGGESTIVE
+      battr: AUDIO_AUTO_PLAY
+      battr: EXPANDABLE_ROLLOVER_INITIATED
+      battr: EXPANDABLE_AUTOMATIC
+      battr: POP_UP
+      battr: PROVOCATIVE_OR_SUGGESTIVE
+      battr: AUDIO_AUTO_PLAY
+      battr: EXPANDABLE_ROLLOVER_INITIATED
+      battr: EXPANDABLE_AUTOMATIC
+      battr: POP_UP
+      battr: VIDEO_IN_BANNER_AUTO_PLAY
+      ext {
+        player_size: "S"
+      }
+    }
+    instl: NO
+    tagid: "1176159"
+    secure: 0
+    ext {
+      placement_type: VIDEO
+      environment_type: APP
+      viewability {
+        predicted_viewability: 0
+      }
+    }
+  }
+  app {
+    id: "316107"
+    cat: "IAB9_26"
+    cat: "IAB9_1"
+    bundle: "com.firsttouchgames.dls3"
+    publisher {
+      id: "172867"
+    }
+  }
+  device {
+    dnt: NO
+    ua: "Mozilla/5.0 (Linux; Android 6.0.1; SM-T350 Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Safari/537.36"
+    ip: "96.42.50.46"
+    geo {
+      lat: 43.797009
+      lon: -91.17485
+      country: "USA"
+      region: "WI"
+      metro: "702"
+      zip: "54601"
+      utcoffset: -300
+      ext {
+      }
+    }
+    dpidsha1: "f86a0bb3273a963b46a74d4a833dcc2669a87a39"
+    dpidmd5: "993b6da17f866abdf9bd178baf57649a"
+    make: "Samsung"
+    model: "-1"
+    os: "Android"
+    osv: "6.0"
+    connectiontype: CONNECTION_UNKNOWN
+    devicetype: MOBILE
+    ifa: "283adf1e-96a9-49da-a5ae-b5aa211c1159"
+    ext {
+      device_screen_size: "NA"
+      browser: "Chrome"
+      browser_version: "53"
+    }
+  }
+  user {
+    id: "192843255622674312"
+    gender: "O"
+    geo {
+      country: "USA"
+      region: "USA/WI"
+      metro: "702"
+      city: "5258957"
+      zip: "54601"
+    }
+    data {
+      id: "0"
+      segment {
+        id: "1"
+        value: "0"
+      }
+    }
+    ext {
+      user_id: "mid.283ADF1E-96A9-49DA-A5AE-B5AA211C1159"
+      user_id_type: AD_ID
+    }
+  }
+  at: 2
+  tmax: 120
+  wseat: "3566"
+  cur: "USD"
+  bcat: "IAB7_21"
+  bcat: "IAB7_7"
+  bcat: "IAB7_5"
+  bcat: "IAB4_7"
+  bcat: "IAB7_18"
+  bcat: "IAB23_10"
+  bcat: "IAB23_9"
+  bcat: "IAB23"
+  bcat: "IAB23_8"
+  bcat: "IAB17_20"
+  bcat: "IAB17_21"
+  bcat: "IAB17_34"
+  bcat: "IAB17_11"
+  bcat: "IAB17_9"
+  bcat: "IAB9_9"
+  bcat: "IAB7_41"
+  badv: "freeproducttesters.com"
+  badv: "sexdategezocht.nl"
+  badv: "my2013rewards.com"
+  badv: "perfectomobile.com"
+  badv: "electronics-sweepstakes.com"
+  badv: "economicfigures.com"
+  badv: "indonesia-mmm.net"
+  badv: "china-mmm.net"
+  badv: "rsa-mmm.org"
+  badv: "giftrewardclub.com"
+  badv: "korea-mmm.net"
+  badv: "korea-mmm.net"
+  badv: "wish.com"
+  test: false
+  ext {
+    inventory_source: APPNEXUS
+    auction_id {
+      hostid: 872157740
+      tid: 4672
+      timestamp: 1475209805650550
+    }
+    targeting_geo {
+      country: "USA"
+      region: "USA/WI"
+      city: "5258957"
+      zip: "54601"
+      metro: "702"
+      lat_long_present: true
+      lat: 43.797009
+      lon: -91.17485
+    }
+    time_of_week: 7230
+    buzz_key: "stinger"
+    appnexus {
+      seller_member_id: 1752
+    }
+    auctionid_str: "1475209805650550.872157740.4672.stinger"
+  }
+}
+===
+bid_request {
+  id: "e7752ba2-b924-4660-8cb7-7f931ad0560d"
+  imp {
+    id: "e7752ba2-b924-4660-8cb7-7f931ad0560d-1"
+    banner {
+      w: 320
+      h: 50
+      pos: ABOVE_THE_FOLD
+      btype: XHTML_TEXT
+      battr: EXPANDABLE_AUTOMATIC
+      battr: EXPANDABLE_CLICK_INITIATED
+      battr: EXPANDABLE_ROLLOVER_INITIATED
+      battr: POP_UP
+      battr: PROVOCATIVE_OR_SUGGESTIVE
+      battr: TEXT_ONLY
+      battr: AD_CAN_EXPAND_LEFT
+      battr: AD_CAN_EXPAND_RIGHT
+      battr: AD_CAN_EXPAND_UP
+      battr: AD_CAN_EXPAND_DOWN
+      battr: AD_CAN_EXPAND_FULLSCREEN
+      api: MRAID_2
+      api: MRAID
+    }
+    displaymanager: "millennial"
+    displaymanagerver: "6.0.0-30f8d87.a"
+    instl: NO
+    bidfloor: 0.19
+    ext {
+      placement_type: BANNER
+      environment_type: APP
+      viewability {
+        predicted_viewability: 0
+      }
+    }
+  }
+  app {
+    id: "51455"
+    name: "Siris Development, Inc.-HMT - Invisible Free - r1-ANDROID"
+    domain: "sirisdevelopmentinc.com"
+    cat: "IAB19_6"
+    cat: "IAB25_1"
+    bundle: "com.secondphoneapps.SecondPhoneTextInv"
+    publisher {
+      id: "15549"
+      name: "Siris Development, Inc."
+      ext {
+      }
+    }
+    storeurl: "https://market.android.com/details?id=com.secondphoneapps.SecondPhoneTextInv"
+  }
+  device {
+    dnt: NO
+    ua: "Mozilla/5.0 (Linux; Android 6.0.1; SM-N920V Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Mobile Safari/537.36"
+    ip: "205.157.146.36"
+    geo {
+      lat: 36.63515
+      lon: -119.42026
+      country: "USA"
+      region: "CA"
+      metro: "866"
+      zip: "93654"
+      type: IP
+    }
+    carrier: "WIFI"
+    language: "en"
+    make: "Samsung"
+    model: "-1"
+    os: "Android"
+    osv: "6.0"
+    js: YES
+    connectiontype: WIFI
+    devicetype: PHONE
+    lmt: false
+    ifa: "a4b841f6-c109-41f0-9738-a366e222c2cc"
+    ext {
+      device_screen_size: "NA"
+      browser: "-1"
+      browser_version: "53"
+    }
+  }
+  user {
+    id: "a4b841f6-c109-41f0-9738-a366e222c2cc"
+    geo {
+      country: "USA"
+      region: "USA/CA"
+      metro: "866"
+      city: "5386984"
+      zip: "93654"
+      type: USER
+    }
+    ext {
+      user_id: "mid.A4B841F6-C109-41F0-9738-A366E222C2CC"
+      user_id_type: AD_ID
+    }
+  }
+  at: 2
+  bcat: "IAB8_5"
+  bcat: "IAB8_18"
+  bcat: "IAB14_1"
+  bcat: "IAB26"
+  bcat: "IAB25"
+  bcat: "IAB24"
+  regs {
+    coppa: NO
+  }
+  ext {
+    inventory_source: MILLENNIAL
+    auction_id {
+      hostid: 1391717276
+      tid: 12998
+      timestamp: 1475209827634667
+    }
+    targeting_geo {
+      country: "USA"
+      region: "USA/CA"
+      city: "5386984"
+      zip: "93654"
+      metro: "866"
+      lat_long_present: true
+      lat: 36.63515
+      lon: -119.42026
+      type: IP
+    }
+    time_of_week: 7230
+    buzz_key: "stinger"
+    auctionid_str: "1475209827634667.1391717276.12998.stinger"
+  }
+}
+===
+bid_request {
+  id: "ce247a25-4afa-4d45-964d-c958e7a342e9"
+  imp {
+    id: "1"
+    banner {
+      w: 320
+      h: 50
+      pos: ABOVE_THE_FOLD
+      btype: IFRAME
+      battr: AUDIO_AUTO_PLAY
+      battr: EXPANDABLE_AUTOMATIC
+      battr: VIDEO_IN_BANNER_AUTO_PLAY
+      battr: VIDEO_IN_BANNER_USER_INITIATED
+      battr: POP_UP
+      battr: PROVOCATIVE_OR_SUGGESTIVE
+      battr: ANNOYING
+      battr: WINDOWS_DIALOG_OR_ALERT_STYLE
+      battr: AD_CAN_EXPAND_LEFT
+      battr: AD_CAN_EXPAND_RIGHT
+      battr: AD_CAN_EXPAND_UP
+      battr: AD_CAN_EXPAND_DOWN
+      battr: AD_CAN_EXPAND_FULLSCREEN
+      api: MRAID
+      api: MRAID_2
+      ext {
+        required_attrs: AD_HAS_THUMBNAIL
+      }
+    }
+    displaymanager: "mopub"
+    displaymanagerver: "4.7.1"
+    instl: NO
+    tagid: "7089d523e16c4c22b3fcb9661487bf44"
+    bidfloor: 1.64
+    secure: 0
+    ext {
+      placement_type: BANNER
+      environment_type: APP
+      viewability {
+        predicted_viewability: 0
+      }
+    }
+  }
+  app {
+    id: "ea871fff35a84609abe19cfad459780f"
+    name: "Alarm Clock GP"
+    cat: "IAB3"
+    ver: "2.22"
+    bundle: "com.apalon.myclock"
+    publisher {
+      id: "agltb3B1Yi1pbmNyEAsSB0FjY291bnQY_pG0Egw"
+      name: "IAC Search & Media Europe Ltd"
+    }
+  }
+  device {
+    dnt: NO
+    ua: "Mozilla/5.0 (Linux; Android 6.0.1; SM-G930V Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.124 Mobile Safari/537.36"
+    ip: "50.175.66.25"
+    geo {
+      lat: 29.735189
+      lon: -95.782723
+      country: "USA"
+      region: "TX"
+      metro: "618"
+      zip: "77494"
+    }
+    carrier: "311-480"
+    language: "en"
+    make: "Samsung"
+    model: "-1"
+    os: "Android"
+    osv: "6.0"
+    js: YES
+    connectiontype: WIFI
+    w: 2560
+    h: 1440
+    ifa: "34582634-0d7d-4443-99c2-38f5cc1a7fdc"
+    ext {
+      device_screen_size: "XL"
+      browser: "-1"
+      browser_version: "53"
+    }
+  }
+  user {
+    geo {
+      country: "USA"
+      region: "USA/TX"
+      metro: "618"
+      city: "4702732"
+      zip: "77494"
+    }
+    ext {
+      user_id: "mid.34582634-0D7D-4443-99C2-38F5CC1A7FDC"
+      user_id_type: AD_ID
+    }
+  }
+  at: 2
+  bcat: "IAB25"
+  bcat: "IAB26"
+  bcat: "IAB7_39"
+  bcat: "IAB8_18"
+  bcat: "IAB8_5"
+  bcat: "IAB9_9"
+  bcat: "IAB3_7"
+  badv: "hillshirebrands.com"
+  ext {
+    inventory_source: MOPUB
+    auction_id {
+      hostid: 3988910764
+      tid: 4595
+      timestamp: 1475209818727463
+    }
+    targeting_geo {
+      country: "USA"
+      region: "USA/TX"
+      city: "4702732"
+      zip: "77494"
+      metro: "618"
+      lat_long_present: true
+      lat: 29.735189
+      lon: -95.782723
+    }
+    time_of_week: 7230
+    buzz_key: "stinger"
+    auctionid_str: "1475209818727463.3988910764.4595.stinger"
+  }
+}

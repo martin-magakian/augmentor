@@ -1,0 +1,20 @@
+version: '2'
+services:
+
+  redis_db:
+    image: redis:latest
+    volumes:
+      - "./data_volume/redis:/data"
+    ports:
+      - "6379:6379"
+    restart: always
+
+  account_back:
+    image: martin-magakian/augmentor
+    depends_on:
+     - redis_db
+    links:
+     - redis_db
+    ports:
+      - "3000:3000"
+    restart: always

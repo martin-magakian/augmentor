@@ -1,0 +1,123 @@
+__init__.py 
+beeswaxio/beeswax/__init__.py 
+beeswaxio/beeswax/augment/__init__.py 
+beeswaxio/beeswax/augment/augmentor_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/beeswax/augment/augmentor_pb2.py
+beeswaxio/beeswax/base/__init__.py 
+beeswaxio/beeswax/base/eventid_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/beeswax/base/eventid_pb2.py
+beeswaxio/beeswax/openrtb/__init__.py 
+beeswaxio/beeswax/openrtb/extension_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/beeswax/openrtb/extension_pb2.py
+beeswaxio/beeswax/openrtb/openrtb_common_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/beeswax/openrtb/openrtb_common_pb2.py
+beeswaxio/beeswax/openrtb/openrtb_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/beeswax/openrtb/openrtb_pb2.py
+beeswaxio/beeswax/tools/__init__.py 
+beeswaxio/beeswax/tools/augmentor/__init__.py 
+beeswaxio/beeswax/tools/augmentor/augmentor_requests_generator /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/bin/beeswax/tools/augmentor/augmentor_requests_generator
+beeswaxio/beeswax/tools/augmentor/augmentor_requests_generator.py /home/ramr/projects/beeswaxio/beeswax/tools/augmentor/augmentor_requests_generator.py
+beeswaxio/external/__init__.py 
+beeswaxio/external/google_protobuf_repo/__init__.py 
+beeswaxio/external/google_protobuf_repo/internal/__init__.py 
+beeswaxio/external/google_protobuf_repo/internal/_api_implementation.so /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/bin/external/google_protobuf_repo/internal/_api_implementation.so
+beeswaxio/external/google_protobuf_repo/pyext/__init__.py 
+beeswaxio/external/google_protobuf_repo/pyext/_message.so /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/bin/external/google_protobuf_repo/pyext/_message.so
+beeswaxio/external/google_protobuf_repo/python/__init__.py 
+beeswaxio/external/google_protobuf_repo/python/google/__init__.py 
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/__init__.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/descriptor.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/descriptor.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/descriptor_database.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/descriptor_database.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/descriptor_pool.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/descriptor_pool.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/__init__.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/_parameterized.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/_parameterized.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/api_implementation.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/api_implementation.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/containers.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/containers.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/decoder.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/decoder.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/encoder.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/encoder.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/enum_type_wrapper.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/enum_type_wrapper.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/import_test_package/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/import_test_package/__init__.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/message_listener.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/message_listener.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/python_message.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/python_message.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/type_checkers.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/type_checkers.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/well_known_types.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/well_known_types.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/internal/wire_format.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/wire_format.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/json_format.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/json_format.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/message.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/message.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/message_factory.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/message_factory.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/proto_builder.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/proto_builder.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/pyext/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/pyext/__init__.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/pyext/cpp_message.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/pyext/cpp_message.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/reflection.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/reflection.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/service.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/service.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/service_reflection.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/service_reflection.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/symbol_database.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/symbol_database.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/text_encoding.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/text_encoding.py
+beeswaxio/external/google_protobuf_repo/python/google/protobuf/text_format.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/text_format.py
+beeswaxio/external/google_protobuf_repo/src/__init__.py 
+beeswaxio/external/google_protobuf_repo/src/google/__init__.py 
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/__init__.py 
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/any_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/any_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/api_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/api_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/compiler/__init__.py 
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/compiler/plugin_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/compiler/plugin_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/descriptor_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/descriptor_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/duration_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/duration_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/empty_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/empty_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/field_mask_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/field_mask_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/source_context_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/source_context_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/struct_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/struct_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/timestamp_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/timestamp_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/type_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/type_pb2.py
+beeswaxio/external/google_protobuf_repo/src/google/protobuf/wrappers_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/wrappers_pb2.py
+beeswaxio/external/six_archive/__init__.py 
+beeswaxio/external/six_archive/six.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/six_archive/six.py
+google_protobuf_repo/__init__.py 
+google_protobuf_repo/internal/__init__.py 
+google_protobuf_repo/internal/_api_implementation.so /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/bin/external/google_protobuf_repo/internal/_api_implementation.so
+google_protobuf_repo/pyext/__init__.py 
+google_protobuf_repo/pyext/_message.so /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/bin/external/google_protobuf_repo/pyext/_message.so
+google_protobuf_repo/python/__init__.py 
+google_protobuf_repo/python/google/__init__.py 
+google_protobuf_repo/python/google/protobuf/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/__init__.py
+google_protobuf_repo/python/google/protobuf/descriptor.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/descriptor.py
+google_protobuf_repo/python/google/protobuf/descriptor_database.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/descriptor_database.py
+google_protobuf_repo/python/google/protobuf/descriptor_pool.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/descriptor_pool.py
+google_protobuf_repo/python/google/protobuf/internal/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/__init__.py
+google_protobuf_repo/python/google/protobuf/internal/_parameterized.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/_parameterized.py
+google_protobuf_repo/python/google/protobuf/internal/api_implementation.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/api_implementation.py
+google_protobuf_repo/python/google/protobuf/internal/containers.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/containers.py
+google_protobuf_repo/python/google/protobuf/internal/decoder.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/decoder.py
+google_protobuf_repo/python/google/protobuf/internal/encoder.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/encoder.py
+google_protobuf_repo/python/google/protobuf/internal/enum_type_wrapper.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/enum_type_wrapper.py
+google_protobuf_repo/python/google/protobuf/internal/import_test_package/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/import_test_package/__init__.py
+google_protobuf_repo/python/google/protobuf/internal/message_listener.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/message_listener.py
+google_protobuf_repo/python/google/protobuf/internal/python_message.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/python_message.py
+google_protobuf_repo/python/google/protobuf/internal/type_checkers.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/type_checkers.py
+google_protobuf_repo/python/google/protobuf/internal/well_known_types.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/well_known_types.py
+google_protobuf_repo/python/google/protobuf/internal/wire_format.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/internal/wire_format.py
+google_protobuf_repo/python/google/protobuf/json_format.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/json_format.py
+google_protobuf_repo/python/google/protobuf/message.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/message.py
+google_protobuf_repo/python/google/protobuf/message_factory.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/message_factory.py
+google_protobuf_repo/python/google/protobuf/proto_builder.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/proto_builder.py
+google_protobuf_repo/python/google/protobuf/pyext/__init__.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/pyext/__init__.py
+google_protobuf_repo/python/google/protobuf/pyext/cpp_message.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/pyext/cpp_message.py
+google_protobuf_repo/python/google/protobuf/reflection.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/reflection.py
+google_protobuf_repo/python/google/protobuf/service.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/service.py
+google_protobuf_repo/python/google/protobuf/service_reflection.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/service_reflection.py
+google_protobuf_repo/python/google/protobuf/symbol_database.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/symbol_database.py
+google_protobuf_repo/python/google/protobuf/text_encoding.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/text_encoding.py
+google_protobuf_repo/python/google/protobuf/text_format.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/external/google_protobuf_repo/python/google/protobuf/text_format.py
+google_protobuf_repo/src/__init__.py 
+google_protobuf_repo/src/google/__init__.py 
+google_protobuf_repo/src/google/protobuf/__init__.py 
+google_protobuf_repo/src/google/protobuf/any_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/any_pb2.py
+google_protobuf_repo/src/google/protobuf/api_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/api_pb2.py
+google_protobuf_repo/src/google/protobuf/compiler/__init__.py 
+google_protobuf_repo/src/google/protobuf/compiler/plugin_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/compiler/plugin_pb2.py
+google_protobuf_repo/src/google/protobuf/descriptor_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/descriptor_pb2.py
+google_protobuf_repo/src/google/protobuf/duration_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/duration_pb2.py
+google_protobuf_repo/src/google/protobuf/empty_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/empty_pb2.py
+google_protobuf_repo/src/google/protobuf/field_mask_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/field_mask_pb2.py
+google_protobuf_repo/src/google/protobuf/source_context_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/source_context_pb2.py
+google_protobuf_repo/src/google/protobuf/struct_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/struct_pb2.py
+google_protobuf_repo/src/google/protobuf/timestamp_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/timestamp_pb2.py
+google_protobuf_repo/src/google/protobuf/type_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/type_pb2.py
+google_protobuf_repo/src/google/protobuf/wrappers_pb2.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/google_protobuf_repo/src/google/protobuf/wrappers_pb2.py
+six_archive/__init__.py 
+six_archive/six.py /home/ramr/.cache/bazel/_bazel_ramr/52b52b1291f5c4e9ca018b4475adab63/execroot/beeswaxio/bazel-out/local-fastbuild/genfiles/external/six_archive/six.py
