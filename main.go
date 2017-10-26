@@ -25,7 +25,7 @@ func fastHTTPHandler(ctx *fasthttp.RequestCtx) {
 	}
 
 	user := augRequest.GetBidRequest().GetUser()
-	fmt.Println("user id:" + user.GetId())
+	fmt.Println("user id :" + user.GetId())
 
 	// unknow user
 	if user.Id == nil {

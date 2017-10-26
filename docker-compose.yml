@@ -10,7 +10,8 @@ services:
     restart: always
 
   augmentor:
-    image: martin-magakian/augmentor
+    build: .
+    image: martinmagakian/augmentor
     depends_on:
      - redis_db
     links:
